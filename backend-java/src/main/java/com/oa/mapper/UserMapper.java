@@ -2,6 +2,7 @@ package com.oa.mapper;
 
 import com.oa.entity.User;
 import org.apache.ibatis.annotations.*;
+import java.util.List;
 
 @Mapper
 public interface UserMapper {
